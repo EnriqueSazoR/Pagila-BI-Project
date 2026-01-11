@@ -76,27 +76,25 @@ Relaciones principales:
 ---
 
 ## Dashboards construidos
-<img width="1390" height="770" alt="Vision General" src="https://github.com/user-attachments/assets/47774d0b-8003-43b7-9b74-2a819d3b0047" />
 
 1. **Dashboard 1: Visión General**
    - Ventas, rentas, clientes
    - Ventas en el tiempo
    - Ventas por tienda
    - Top películas por ingresos
-
-<img width="1396" height="779" alt="Películas" src="https://github.com/user-attachments/assets/f9e56195-6142-44b7-bba7-c64669eb7998" />
+<img width="1390" height="770" alt="Vision General" src="https://github.com/user-attachments/assets/47774d0b-8003-43b7-9b74-2a819d3b0047" />
 
 2. **Dashboard 2: Películas**
    - Ranking por ingresos y rentas
    - Categorías más / menos vistas
    - Comparación por rating y duración
-  
-<img width="1378" height="780" alt="Clientes" src="https://github.com/user-attachments/assets/de89b32e-f0dc-42da-b707-5a1dca1adbba" />
+<img width="1396" height="779" alt="Películas" src="https://github.com/user-attachments/assets/f9e56195-6142-44b7-bba7-c64669eb7998" />
 
 3. **Dashboard 3: Clientes y Tiendas**
    - Clientes por tienda
    - Clientes activos (estado)
    - Distribución geográfica
+<img width="1378" height="780" alt="Clientes" src="https://github.com/user-attachments/assets/de89b32e-f0dc-42da-b707-5a1dca1adbba" />
 
 Cada dashboard cuenta con documentación explicativa en formato PDF.
 
